@@ -17,7 +17,7 @@ hero:
 
 features:
   - title: Red Team Operator
-    details: Certifié Red Team Operator (CRTO) en Mai 2024
+    details: Certifié Red Team Operator (CRTO) en Mai 2024.
   - title: Red Team Leader
-    details: Certifié Red Team Leader (CRTL) en Mars 2025
+    details: Certifié Red Team Leader (CRTL) en Mars 2025.
 ---
