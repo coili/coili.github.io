@@ -1,12 +1,11 @@
 import { defineConfig } from 'vitepress'
 
-// https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "Coili's Notebook",
   description: "Not cheat, just help!",
   base: '/',
   themeConfig: {
-    // https://vitepress.dev/reference/default-theme-config
+    
     nav: [
       { text: 'Accueil', link: '/' },
       { text: 'Documentation', link: '/docs' }
